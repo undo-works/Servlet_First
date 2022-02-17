@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+	<Resource 
+		driverClassName="com.mysql.jdbc.Driver"
+		name="jdbc/localDB"
+		type="javax.sql.DataSource"
+		url="jdbc:mysql://localhost:65534/KIDDA_LA"	
+		username="user1"
+		password="pass1"
+	/>		
+</Context>

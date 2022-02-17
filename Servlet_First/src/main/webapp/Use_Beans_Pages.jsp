@@ -13,5 +13,7 @@
 <h2>name:<c:out value="${customer.name}"/></h2>
 <h2>height:<c:out value="${customer.height}"/></h2>
 <h2>flag:${customer.flag}</h2>
+<hr/>
+
 </body>
 </html>
